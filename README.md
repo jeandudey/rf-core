@@ -133,7 +133,7 @@ que juntos hacen el total de 32 bits del LLA.
 
 ```
 +---------------------+
-|IEEE_MAC_0|IEEE_MAC_1|
+|IEEE_MAC_1|IEEE_MAC_0|
 +---------------------+
 63         32          0
 ```
