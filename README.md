@@ -165,3 +165,7 @@ iniciarse para que el *RF Core* haga el *boot*.
 
 El *RF Core* utiliza paquetes para enviar comandos, en este caso el que
 necesitamos es el `CMD_PROP_TX_AD`. ***En proceso de investigación***
+
+## Enlaces utiles
+
+- [CC26xx Driverlib NONBUF_BASE definitions](http://e2e.ti.com/support/wireless-connectivity/bluetooth/f/538/t/534500?CC26xx-Driverlib-NONBUF-BASE-definitions)
