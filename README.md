@@ -80,23 +80,23 @@ comandos de otros dispositivos para abreviar.
 Para el modo de operación *prop mode* necesitamos los siguientes comandos:
 
 - `CMD_PROP_TX`: comando de TX simple.
- - **Tipo:** Operación.
+  - **Tipo:** Operación.
 - `CMD_PROP_RX`: comando de RX simple.
- - **Tipo:** Operación.
+  - **Tipo:** Operación.
 - `CMD_PROP_TX_ADV`: comando de TX avanzado.
- - **Tipo:** Operación.
+  - **Tipo:** Operación.
 - `CMD_PROP_RX_ADV`: comando de RX avanzado.
- - **Tipo:** Operación.
+  - **Tipo:** Operación.
 - `CMD_PROP_CS`: *carrier sense*.
- - **Tipo:** Operación.
+  - **Tipo:** Operación.
 - `CMD_PROP_RADIO_SETUP`: comando para perparar la radio, solo para 2.4 GHz.
- - **Tipo:** Operación.
+  - **Tipo:** Operación.
 - `CMD_PROP_RADIO_DIV_SETUP`: comando para preparar la radio, todas las bandas.
- - **Tipo:** Operación.
+  - **Tipo:** Operación.
 - `CMD_PROP_SET_LEN`: comando para cambiar el tamaño del paquete.
- - **Tipo:** Operación.
+  - **Tipo:** Operación.
 - `CMD_PROP_RESTART_RX`: reiniciar el RX.
- - **Tipo:** Operación.
+  - **Tipo:** Operación.
 
 Otros comandos necesarios son:
 
